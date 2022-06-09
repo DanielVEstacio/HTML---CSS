@@ -1,0 +1,25 @@
+strong{
+  color: blue;
+}
+
+body{
+  background: gold; 
+}
+p {
+  text-align: center;
+  font-seze: 50px;
+  
+}
+
+h1{
+  text-align: center;
+  
+}
+
+#missao{
+  font-seze: 30px;
+}
+
+#banner {
+  width: 100%;
+}
